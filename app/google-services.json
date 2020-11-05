@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422509969188",
+    "firebase_url": "https://payo-8cbd5.firebaseio.com",
+    "project_id": "payo-8cbd5",
+    "storage_bucket": "payo-8cbd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422509969188:android:3d29d9c2ae00b6000b3db1",
+        "android_client_info": {
+          "package_name": "com.krayong.payo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422509969188-gdvsm9v3sghn1rig1b0eel0qkod1lhc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl4a7MpAKSbtout4U58bhQ-PJr_b-FtFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422509969188-gdvsm9v3sghn1rig1b0eel0qkod1lhc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

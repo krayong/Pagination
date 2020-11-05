@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PayO</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_signout">Sign Out</string>
+
+    <string name="splash_screen_logo_cd">PayO Logo</string>
+
+    <string name="android_developer_intern">Android Developer Intern</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="forgot_password">Forget Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="sort_by_title">Sort By</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
